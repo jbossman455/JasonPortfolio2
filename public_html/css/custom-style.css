@@ -1,4 +1,14 @@
 div {
     border-style:solid;
     border-width:3px;
+    border-color:green;
+    padding:30px;
+}
+
+.container {
+    border-color: blue;
+}
+
+.row {
+    border-color: red; 
 }
