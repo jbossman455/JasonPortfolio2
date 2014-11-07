@@ -14,7 +14,15 @@ div {
 }
 
 .list-group-item {
-   border: 0;
-   margin-top: 30px;
-   margin-bottom: 30px;
+    border: 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+body{
+    background-image:url("http://www.freewallsource.com/img/2014/7/cool-wallpapers-80-82-hd-wallpapers.jpg");
+}
+
+h2{
+    text-decoration-color: white 
 }
